@@ -1,7 +1,7 @@
 # 💫About Me :
-Hey there, I am Satyanarayan, a flutter developer based in bengluru.
+Hey there, I am Satyanarayan, a developer based in bengluru.
 Always had a nag for artistry and crafting my imaginations. I have experience doing projects in 
-application development working with Flutter framework, you can look more about them in my respositories.
+application development and web development working with NextJS, ReactJs, Flutter framework, and deployment on AWS and vercel, you can look more about them in my respositories.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/satyanarayan-prashar-57a170229) 
