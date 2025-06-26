@@ -1,6 +1,5 @@
 # 💫About Me :
-Hey there, I am Satyanarayan, a developer based in bengluru.
-Always had a nag for artistry and crafting my imaginations. I build pixel-perfect, performant websites and mobile applications.
+I'm a product-minded full-stack developer who enjoys turning complex ideas into intuitive web platforms. I craft dynamic interfaces with React, Next.js, and Tailwind CSS, backed by robust APIs powered by Django and Prisma. From building real-time dashboards with Supabase and or caching data in Redis to automating workflows with Celery, Selenium, CI/CD and Jenkins. Whether it's orchestrating LLMs or containers with Docker, I design systems with both users and maintainers in mind.
 
 ## 🌐
 [![Static Badge](https://img.shields.io/badge/portfolio-blue?style=flat)](https://satyabuilds.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/satyanarayan-prashar-57a170229) 
